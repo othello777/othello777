@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/othello777"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=othello777" /></a>
 
 - 🔭 I’m currently working on
-  - Video Games ([DodgeBlock](dodgeblock.cf), and some newer stuff too)
+  - Video Games ([DodgeBlock](https://dodgeblock.cf), and some newer stuff too)
   - [Boby](https://github.com/Skill-Issue-Inc/boby), the Discord bot
   - Compiling your sotware
 - 👯 I’m looking to collaborate on ...
